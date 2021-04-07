@@ -16,25 +16,26 @@ The versions and libraries may change over time, so I recommend creating a dedic
 * Windows: Anaconda Prompt
 * MacOs/Linux: Terminal
 
-Open your command line program. You will need to navigate to the folder that contains the notebooks using the cd command (change directory). For example, if you are using a Windows machine and saved your code in your Documents folder, it will look like:
+Open your command line program. You will need to navigate to the folder that contains the notebooks using the cd command (change directory). For example, if you are using a Windows machine and saved your code in your Documents folder, it may look like:
 
-```
-cd C:\Users\<name>\Documents\EarthSciViz-master
+```bash
+cd C:\Users\your_name_here\Documents\EarthSciViz-master
 ```
 
 Next, we can setup our environment. This will install all the libraries we need to run the examples. To do this, we use the following command:
 
-```
+```bash
 conda env create -f environment.yml
 ```
 This may take a few minutes. After the new environment is created (named earthsciviz), we need to switch to it instead of using our default environment. To do this, type:
-```
+
+```bash
 conda activate earthsciviz
 ```
 
 Lastly, Launch Jupyter Notebooks to view and run the contents interactively. Type the command:
 
-```
+```bash
 jupyter notebook
 ```
 
