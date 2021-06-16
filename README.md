@@ -1,4 +1,4 @@
-# Earth Observation Using Python Scripts.
+# Earth Observation Using Python
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/resmaili/Earth-Obs-Py/HEAD)
 
 ## About this page
@@ -12,13 +12,13 @@ First download the contents of the repository on your computer. You do this by c
 
 You will need [Anaconda](https://www.anaconda.com/) to run these examples, which you can install following the steps on their website.
 
-The versions and libraries may change over time, so I recommend creating a dedicated Python environment for these examples. To do this, you will need to open the *command line*:
+The versions and libraries may change over time, so I recommend creating a dedicated [Python environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for these examples. To do this, you will need to open the *command line*:
 * Windows: Anaconda Prompt
 * MacOs/Linux: Terminal
 
 Open your command line program. You will need to navigate to the folder that contains the notebooks using the cd command (change directory). For example, if you are using a Windows machine and saved your code in your Documents folder, it may look like:
 
-```bash
+```
 cd C:\Users\your_name_here\Documents\Earth-Obs-Py
 ```
 
@@ -45,31 +45,30 @@ You can end you session by closing the command line program. If you wish to resu
 
 ## Need more Python help?
 ### From the author
-I will occasionally upload short tutorials to my YouTube channel, [Python for Earth Science](https://www.youtube.com/channel/UCGa4rhczYNTGBYIMxmR8nHg). I also offer a workshop at the American Geophysical Union annual meeting.
+I will occasionally upload short tutorials to my YouTube channel, [Python for Earth Science](https://www.youtube.com/channel/UCGa4rhczYNTGBYIMxmR8nHg). I also offer virtual and in-person workshops at the American Geophysical Union annual meeting and in the Washington D.C. area.
 
 ### Specific topics (mostly free)
 <b> Pandas </b>
-* Short Introduction: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
-* Cookbook for more details: https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#cookbook
+* [Short Introduction](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+* [Cookbook](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#cookbook) Pandas operations.
 
 ---
 <b> Matplotlib </b>
-* Pyplot Tutorial: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html
+* [Pyplot Tutorial](https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html)
 
 ---
 <b> Reading self describing file </b>
 * <b> NETCDF </b>
-    * Detailed tutorial https://unidata.github.io/netcdf4-python/netCDF4/index.html.
+    * [Detailed tutorial from Unidata](https://unidata.github.io/netcdf4-python/netCDF4/index.html).
 * <b> HDF files </b>
-    * The package [h5py](https://www.h5py.org/) is similar to netcdf4.
-    * User manual at http://docs.h5py.org/en/stable/.
+    * [h5py](https://www.h5py.org/) is a good package for opening HDF files.
+    * [User manual](http://docs.h5py.org/en/stable/).
 * <b> GRIB/GRIB2 files </b>
     * World Meteorology Association standard format, e.g. commonly used with weather-related models like ECMWF and GFS.
     * Can be opened using [pygrib](https://github.com/jswhit/pygrib).
-    * Example usage at https://jswhit.github.io/pygrib/docs/.
+    * Example [pygrib usage](https://jswhit.github.io/pygrib/docs/).
 * <b> BUFR </b>
-    * Another common model format.
-    * Open with [python-bufr](https://github.com/pytroll/python-bufr), part of the pytroll project.
+    * Open with [python-bufr](https://github.com/pytroll/python-bufr).
 ---    
 
 ### General Python resources   
