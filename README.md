@@ -1,5 +1,5 @@
 # Earth Observation Using Python Scripts.
-[![Binder](https://mybinder.org/v2/gh/resmaili/Earth-Obs-Py/HEAD)
+![Binder](https://mybinder.org/v2/gh/resmaili/Earth-Obs-Py/HEAD)
 
 ## About this page
 The examples in this repository are described in detail in the book [Earth Observation Using Python: A Practical Programming Guide](https://www.amazon.com/dp/1119606888/ref=cm_sw_em_r_mt_dp_P3MK08TP34QRQM0DV5B5). You may use these examples in your work, but please acknowledge or cite this book if you do not significantly alter or improve upon it.
