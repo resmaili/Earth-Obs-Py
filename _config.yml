@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Earth Observation Using Python
+description: The examples in this repository are described in detail in the book Earth Observation Using Python: A Practical Programming Guide.
+show_downloads: "true"
+logo: cover.jpg
