@@ -61,7 +61,8 @@ I will occasionally upload short tutorials to my YouTube channel, [Python for Ea
 * <b> NETCDF </b> files are common in Earth remote sensing. In addition to this book, Unidata also provides a [detailed tutorial](https://unidata.github.io/netcdf4-python/netCDF4/index.html).
 * <b> HDF files </b> are another common format and can be opened using [h5py](https://www.h5py.org/), which has an excellent [user manual](http://docs.h5py.org/en/stable/).
 * <b> GRIB2 files </b> are a World Meteorology Association standard format and commonly used with weather-related models like ECMWF and GFS. These files can be opened using [pygrib](https://github.com/jswhit/pygrib). You can find an [example here](https://jswhit.github.io/pygrib/docs/).
-* <b> BUFR files </b> can be opened using the [python-bufr](https://github.com/pytroll/python-bufr) package.
+
+* <b>BUFR files</b> can be opened using the [python-bufr](https://github.com/pytroll/python-bufr) package.
 ---    
 
 ### General Python resources   
