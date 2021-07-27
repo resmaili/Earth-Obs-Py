@@ -1,0 +1,5 @@
+*.nc filter=lfs diff=lfs merge=lfs -text
+*.he5 filter=lfs diff=lfs merge=lfs -text
+*.grb2 filter=lfs diff=lfs merge=lfs -text
+*.HDF5 filter=lfs diff=lfs merge=lfs -text
+*.he5 filter=lfs diff=lfs merge=lfs -text
