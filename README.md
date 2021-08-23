@@ -2,7 +2,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/resmaili/Earth-Obs-Py/HEAD)
 
 ## About this page
-The examples in this repository are described in detail in the book [Earth Observation Using Python: A Practical Programming Guide](https://www.amazon.com/dp/1119606888/ref=cm_sw_em_r_mt_dp_P3MK08TP34QRQM0DV5B5). You may use these examples in your work, but please acknowledge or cite this book if you do not significantly alter or improve upon it.
+The examples in this repository are described in detail in the book [Earth Observation Using Python: A Practical Programming Guide](https://www.wiley.com/en-us/Earth+Observation+using+Python%3A+A+Practical+Programming+Guide-p-9781119606888). You may use these examples in your work, but please acknowledge or cite this book if you do not significantly alter or improve upon it.
 
 ## Running Notebooks interactively online
 You can launch a [binder instance](https://mybinder.org/v2/gh/resmaili/Earth-Obs-Py/HEAD) to run the code interactively online. This does not require a Python installation, but your work will not be saved if you close the browser.
