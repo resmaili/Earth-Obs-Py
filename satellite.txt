@@ -1,0 +1,4 @@
+name,agency,orbit
+GOES-16,NOAA,GEO
+IceSat-2,NASA,LEO
+Himawari,JAXA,GEO

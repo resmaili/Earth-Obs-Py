@@ -8,7 +8,7 @@ The examples in this repository are described in detail in the book [Earth Obser
 You can launch a [binder instance](https://mybinder.org/v2/gh/resmaili/Earth-Obs-Py/HEAD) to run the code interactively online. This does not require a Python installation, but your work will not be saved if you close the browser.
 
 ## Running Notebooks on your local machine
-1. Download the contents of the repository on your computer (see links on the left sidebar). If you are on the GitHub repository, you can do this by clicking the *Code* button on the top right, followed by *download ZIP*. You will need to then uncompress the file. You can also download these
+1. Download the contents of the repository on your computer (see links on the left sidebar). If you are on the GitHub repository, you can do this by clicking the *Code* button on the top right, followed by *download ZIP*. You will need to then uncompress the file. 
 
 2. You will need [Anaconda](https://www.anaconda.com/) to run these examples, which you can install following the steps on their website. You can also use [Miniconda](https://docs.conda.io/en/latest/miniconda.html) if you need save disk space.
 

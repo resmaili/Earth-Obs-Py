@@ -1,29 +1,25 @@
 name: earthsciviz
 channels:
     - conda-forge
-    - defaults
 dependencies:
-    - python=3.7    # Python version 3.7
-    - cartopy       # Geographic plotting toolkit
-    - dask          # Parallel processing library
-    - matplotlib    # 2D plotting library
-    - netcdf4       # Wrapper for netcdf4
-    - h5py          # HDF opener
-    - numpy         # N-d array and numerics
-    - pandas        # Labeled array library
-    - proj4         # geographic projections
-    - xarray        # N-d labeled array library
-    - metpy         # calculations with weather data.
-    - pyresample    # resample grids and swaths
-    - scikit-image  # Gamma, image adjustments
-    - scipy         # Many numerical routines
-    - jupyter       # Jupyter
-    - eccodes
-    - ipykernel
-    - notebook
-    - nb_conda_kernels
-    - nb_conda
-    - cfgrib
-    - pip
-    # - pip:
-    #   - cfgrib
+    - python=3.9.15    # Python version 3.9
+    - cartopy=0.21.1       # Geographic plotting toolkit
+    - dask=2022.12.1         # Parallel processing library
+    - matplotlib=3.6.2    # 2D plotting library
+    - netcdf4=1.6.2       # Wrapper for netcdf4
+    - h5py=3.7.0          # HDF opener
+    - numpy=1.24.1         # N-d array and numerics
+    - pandas=1.5.2        # Labeled array library
+    # - proj4         # geographic projections
+    - xarray=2022.12.0        # N-d labeled array library
+    - metpy=1.4.0         # calculations with weather data.
+    - pyresample=1.26.0.post0    # resample grids and swaths
+    - scikit-image=0.19.3  # Gamma, image adjustments
+    - scipy=1.10.0         # Many numerical routines
+    # - jupyter       # Jupyter
+    - eccodes=2.27.1
+    - ipykernel=6.20.1
+    - notebook=6.5.2
+    - pygrib=2.1.4
+    - cfgrib=0.9.10.3
+    - scikit-learn=1.2.0
